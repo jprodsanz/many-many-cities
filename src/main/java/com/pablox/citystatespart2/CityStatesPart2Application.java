@@ -1,13 +1,13 @@
-package com.pablox.citystates;
+package com.pablox.citystatespart2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CityStatesApplication {
+public class CityStatesPart2Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(CityStatesApplication.class, args);
+        SpringApplication.run(CityStatesPart2Application.class, args);
     }
 
 }

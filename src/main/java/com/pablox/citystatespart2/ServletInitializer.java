@@ -1,4 +1,4 @@
-package com.pablox.citystates;
+package com.pablox.citystatespart2;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
@@ -7,7 +7,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(CityStatesApplication.class);
+        return application.sources(CityStatesPart2Application.class);
     }
 
 }

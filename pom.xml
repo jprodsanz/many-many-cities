@@ -8,12 +8,12 @@
         <version>2.7.10</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.pablox.citystates</groupId>
-    <artifactId>CityStates</artifactId>
+    <groupId>com.pablox.citystatespart2</groupId>
+    <artifactId>CityStatesPart2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>CityStates</name>
-    <description>CityStates</description>
+    <name>CityStatesPart2</name>
+    <description>CityStatesPart2</description>
     <properties>
         <java.version>17</java.version>
     </properties>
